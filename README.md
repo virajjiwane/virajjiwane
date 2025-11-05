@@ -11,7 +11,7 @@ I design and deliver clean, modular, and efficient solutions using **Angular, Py
 Check out my live portfolio to explore projects, designs, and open-source work:  
 🔗 **[virajjiwane.onrender.com](https://virajjiwane.onrender.com)**  
 💻 **Source:** [github.com/virajjiwane/whoami](https://github.com/virajjiwane/whoami)
-
+![Portfolio Preview](preview.png)
 You’re free to **use or fork the code** for your own portfolio.  
 All personal data (name, bio, projects, etc.) can be edited in: `src/app/services/data.ts`
 
